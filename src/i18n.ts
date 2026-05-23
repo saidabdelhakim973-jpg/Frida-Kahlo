@@ -16,7 +16,7 @@ const resources = {
         "title": "Cheminement",
         "subtitle": "L'Ame du Projet",
         "role": "Artiste Peintre & Art-thérapeute",
-        "studio": "Atelier Souffle d'Orient, Marrakech",
+        "studio": "Atelier basé à Marrakech",
         "content": "Je suis artiste peintre et art-thérapeute, avec plus de dix années de pratique artistique. Mon travail s’inscrit dans une recherche continue autour de l’expression émotionnelle, de la matière et du lien entre l’art et le mieux-être. Ma démarche artistique se caractérise par une exploration de supports variés, allant de la peinture grand format à la sculpture métallique. Le féminin occupe une place centrale dans mon univers artistique. Mon processus créatif est intuitif et guidé par une forte exigence intérieure. Parallèlement à ma pratique artistique, je développe une activité en art-thérapie. À travers mon travail, j’affirme une conviction essentielle : l’art est à la fois un acte esthétique et une expérience profondément humaine."
       },
       "gallery": {
@@ -135,7 +135,7 @@ const resources = {
         "title": "Journey",
         "subtitle": "The Soul of the Project",
         "role": "Painter & Art-therapist",
-        "studio": "Souffle d'Orient Studio, Marrakech",
+        "studio": "Studio based in Marrakech",
         "content": "I am a painter and art therapist, with over ten years of artistic practice. My work is part of a continuous research around emotional expression, matter and the link between art and well-being. My artistic approach is characterized by an exploration of various media, ranging from large-format painting to metal sculpture. The feminine occupies a central place in my artistic universe. My creative process is intuitive and guided by a strong inner requirement. In parallel with my artistic practice, I develop an activity in art therapy. Through my work, I affirm an essential conviction: art is both an aesthetic act and a deeply human experience."
       },
       "gallery": {
@@ -254,7 +254,7 @@ const resources = {
         "title": "المسار",
         "subtitle": "روح المشروع",
         "role": "فنانة تشكيلية ومعالجة بالفن",
-        "studio": "مرسم نفس الشرق، مراكش",
+        "studio": "مرسم في، مراكش",
         "content": "أنا فنانة تشكيلية ومعالجة بالفن، بخبرة تزيد عن عشر سنوات من الممارسة الفنية. يندرج عملي في إطار بحث مستمر حول التعبير العاطفي، والمادة، والصلة بين الفن والرفاهية. تتميز مقاربتي الفنية باستكشاف وسائط متنوعة، تتراوح من اللوحات ذات الحجم الكبير إلى المنحوتات المعدنية. يحتل الجانب الأنثوي مكانة مركزية في عالمي الفني. عمليتي الإبداعية بديهية ومسترشدة بمطلب داخلي قوي. وبالتوازي مع ممارستي الفنية، أعمل في مجال العلاج بالفن. ومن خلال عملي، أؤكد على قناعة أساسية: الفن هو عمل جمالي وتجربة إنسانية عميقة في آن واحد."
       },
       "gallery": {
